@@ -1,0 +1,40 @@
+body {
+    background-color: #f8d7da; /* Fondo rojo suave claro */
+    color: #ffffff; /* Texto en blanco */
+}
+
+a {
+    color: #007bff; /* Enlaces en color azul */
+    background-color: #ffffff; /* Fondo blanco para los enlaces */
+    display: inline-block;
+    padding: 5px;
+    margin: 5px 0;
+    text-decoration: none;
+    border: 2px solid #007bff; /* Borde azul para los enlaces */
+    border-radius: 5px; /* Bordes redondeados */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #343a40; /* Títulos en gris oscuro */
+}
+
+p {
+    color: #ffffff; /* Párrafos en blanco */
+}
+
+strong {
+    color: #d9534f; /* Rojo más oscuro para el texto en negrita */
+}
+
+button {
+    display: block;
+    margin: 10px 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    box-sizing: border-box; /* Ajuste de tamaño de la imagen */
+    padding: 5px; /* Espacio alrededor de la imagen */
+    border: 2px solid #ebecee; /* Borde azul para las imágenes */   
+}
